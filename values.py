@@ -1,0 +1,2 @@
+# Valores obtenidos después de la validación usando best
+{'metrics/precision(B)': 1.0, 'metrics/recall(B)': 0.0005387931034482759, 'metrics/mAP50(B)': 0.005, 'metrics/mAP50-95(B)': 0.003, 'fitness': 0.003}
